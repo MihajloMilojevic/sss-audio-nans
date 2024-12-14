@@ -1,6 +1,8 @@
 # Primena Šamirovog tajnog deljenja na audio fajlove
 ## Projekat za predmet "Numerički algoritmi i numerički softver"
 
+## **Status:** _U fazi razmatranja_
+
 U ovom projektu, koristiću princip Šamirovog tajnog deljenja
 (Shamir’s Secret Sharing) kako bih omogućio bezbednu dekompoziciju i
 rekonstrukciju audio fajlova. Šamirovo tajno deljenje (SSS) je
